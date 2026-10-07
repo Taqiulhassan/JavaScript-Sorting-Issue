@@ -14,3 +14,5 @@ console.log(
     return a.localeCompare(b);
   }),
 );
+
+//Time complexity Big O(n log n)
